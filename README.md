@@ -1,7 +1,7 @@
 # dropzone-nuxt
-[![npm (scoped with tag)](https://img.shields.io/npm/v/nuxt-leaflet/latest.svg?style=flat-square)](https://npmjs.com/package/dropzone-nuxt)
-[![npm](https://img.shields.io/npm/dt/nuxt-leaflet.svg?style=flat-square)](https://npmjs.com/package/dropzone-nuxt)
-[![Dependencies](https://david-dm.org/schlunsen/nuxt-leaflet/status.svg?style=flat-square)](https://david-dm.org/schlunsen/dropzone-nuxt)
+[![npm (scoped with tag)](https://img.shields.io/npm/v/dropzone-nuxt/latest.svg?style=flat-square)](https://npmjs.com/package/dropzone-nuxt)
+[![npm](https://img.shields.io/npm/dt/dropzone-nuxt.svg?style=flat-square)](https://npmjs.com/package/dropzone-nuxt)
+[![Dependencies](https://david-dm.org/schlunsen/dropzone-nuxt/status.svg?style=flat-square)](https://david-dm.org/schlunsen/dropzone-nuxt)
 
 A Dropzone.js module for Nuxt.js.
 
