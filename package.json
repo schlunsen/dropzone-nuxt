@@ -1,12 +1,17 @@
 {
-  "name": "nuxt-dropzone",
-  "version": "0.1.0",
-  "description": "A module for Nuxt.js",
+  "name": "dropzone-nuxt",
+  "version": "0.1.1",
+  "description": "A Dropzone.js module for Nuxt.js",
   "author": {
     "name": "Rasmus Schlünsen"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schlunsen/dropzone-nuxt.git"
+  },
   "keywords": [
     "vue",
+    "dropzone",
     "nuxt",
     "nuxt.js"
   ],

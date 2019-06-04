@@ -1,25 +1,25 @@
-# nuxt-dropzone
+# dropzone-nuxt
 
-A module for Nuxt.js.
+A Dropzone.js module for Nuxt.js.
 
 ## Installation
 
 ```bash
-$ npm i nuxt-dropzone --save
+$ npm i dropzone-nuxt --save
 ```
 
 ## Setup
-- Add `nuxt-dropzone` dependency using yarn or npm to your project
-- Add `nuxt-dropzone` to `modules` section of `nuxt.config.js`
+- Add `dropzone-nuxt` dependency using yarn or npm to your project
+- Add `dropzone-nuxt` to `modules` section of `nuxt.config.js`
 
 ```js
 {
   modules: [
     // Simple usage
-    'nuxt-dropzone',
+    'dropzone-nuxt',
 
     // With options
-    ['nuxt-dropzone', { /* module options */ }],
+    ['dropzone-nuxt', { /* module options */ }],
  ]
 }
 ```

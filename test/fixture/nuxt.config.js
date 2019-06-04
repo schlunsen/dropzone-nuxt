@@ -6,6 +6,6 @@ module.exports = {
   rootDir: resolve(__dirname, '../..'),
   srcDir: __dirname,
   modules: ['~/../../lib/module'],
-  'nuxt-dropzone': optionConfig,
+  'dropzone-nuxt': optionConfig,
   dev: process.env.NODE_ENV !== 'test' && process.env.NODE_ENV === 'production'
 }
