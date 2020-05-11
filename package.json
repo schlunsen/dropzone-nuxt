@@ -1,6 +1,6 @@
 {
   "name": "dropzone-nuxt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Dropzone.js module for Nuxt.js",
   "author": {
     "name": "Rasmus Schlünsen"
@@ -39,6 +39,6 @@
   },
   "dependencies": {
     "consola": "^2.3.2",
-    "vue2-dropzone": "^3.5.9"
+    "vue2-dropzone": "^3.6.0"
   }
 }
