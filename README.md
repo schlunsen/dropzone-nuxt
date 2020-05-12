@@ -30,7 +30,12 @@ $ npm i dropzone-nuxt --save
 ## Usage
 ```vue
 <template>
-    <dropzone ref="myDropzone" id="dropzone" :options="dropzoneOptions" />
+    <dropzone 
+    @vdropzone-file-added="onFileAdded"
+    @vdropzone-error="onError"
+    @vdropzone-success="onSuccess"
+    @vdropzone-complete="onComplete"
+    ref="myDropzone" id="dropzone" :options="dropzoneOptions" />
 </template>
 
 <script>
@@ -45,6 +50,22 @@ export default {
                 headers: { "My-Awesome-Header": "header value" }
             }
         }
+    },
+    methods: {
+        onFileAdded(e) {
+
+        },
+        onError(e) {
+
+        },
+        onSuccess(e) {
+
+        },
+        onComplete(e) {
+
+        }
+
+
     }
 }
 
